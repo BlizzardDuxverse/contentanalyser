@@ -71,3 +71,5 @@ It identifies all records except the oldest one as duplicates.
 Delete Reels / Delete Stories (Airtable Nodes):
 Function: Receives the list of Airtable Record IDs for all identified duplicates and permanently deletes them from the database.
 Importance: This ensures the database remains clean and contains only unique content, which is crucial for accurate analysis.
+
+Link to watch demo: https://youtu.be/mbYeRZm8rzE
